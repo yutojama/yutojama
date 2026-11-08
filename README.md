@@ -106,7 +106,7 @@
   <li><a href="https://github.com/yutojama/online-shop-backend">Backend</a></li>
   <li><a href="https://github.com/yutojama/online-shop-aws">AWS config</a></li>
   <li><a href="https://github.com/yutojama/online-shop-k8s">Kubernetes config</a></li>
-<ul>
+</ul>
 
 <b>Open to:</b>
 
