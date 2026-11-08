@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Tuo</h1>
 
-<p align="center">
-  <b>I'm a former Test Engineer with over 5 years of experience in Quality Assurance, specializing in Hardware-in-the-Loop (HIL) testing for heat pump systems. I'm currently transitioning into Backend Development and Cloud Engineering, focusing on building my skills in Java, backend technologies, and cloud infrastructure. With a strong background in software testing and quality assurance, I'm eager to apply my testing mindset to developing reliable, scalable software.</b>
-  <br/>
-  for high-performance Web3 and AI products - from architecture to deployment.
+<p align="left">
+  I'm a former Test Engineer with over 5 years of experience in Quality Assurance, specializing in Hardware-in-the-Loop (HIL) testing for heat pump systems. I'm currently transitioning into Backend Development and Cloud Engineering, focusing on building my skills in Java, backend technologies, and cloud infrastructure. With a strong background in software testing and quality assurance, I'm eager to apply my testing mindset to developing reliable, scalable software.
 </p>
 
-<p align="center">
+<p align="left">
   <sub>Former Test Engineer | 5+ years in Quality Assurance & HIL Testing. Currently transitioning into Java Backend Development and Cloud Engineering. Passionate about learning, building reliable software, and exploring cloud-native technologies.</sub>
 </p>
 
@@ -91,7 +89,7 @@
   &nbsp;Fullstack E-Commerce</a>
 </h3>
 
-<b>Purpose</b> - 
+<b>Purpose</b>
 
 <b>Highlights</b>
 <ul>
@@ -103,12 +101,12 @@
   <li><b>Entrepreneurial Vision</b> – Inspired by the dream of running my own snowboard business.</li>
 </ul>
 
-<p>
-  <a href="https://github.com/yutojama/online-shop-frontend">Frontend</a>
-  <a href="https://github.com/yutojama/online-shop-backend">Backend</a>
-  <a href="https://github.com/yutojama/online-shop-aws">AWS config</a>
-  <a href="https://github.com/yutojama/online-shop-k8s">Kubernetes config</a>
-</p>
+<ul>
+  <li><a href="https://github.com/yutojama/online-shop-frontend">Frontend</a></li>
+  <li><a href="https://github.com/yutojama/online-shop-backend">Backend</a></li>
+  <li><a href="https://github.com/yutojama/online-shop-aws">AWS config</a></li>
+  <li><a href="https://github.com/yutojama/online-shop-k8s">Kubernetes config</a></li>
+<ul>
 
 <b>Open to:</b>
 
